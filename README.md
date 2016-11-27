@@ -33,10 +33,12 @@ run appropriate script.
 
 Decomposition tests
 -------------------
+Tests should be run fom the scripts directory in the project.
 Script 'decomposition', runs a del program on a simple decomposable theory 
 To run the test run:
-    :~$./decomposition decompose    
+ 1. ~$./decomposition ../math/decompose    
 
 Script 'solver', runs a del program on a simple theory 
-To run the test run:
-    :~$./solver solve
+To run the test run from the scripts:
+ 2. ~$./solver ../math/solve
+
