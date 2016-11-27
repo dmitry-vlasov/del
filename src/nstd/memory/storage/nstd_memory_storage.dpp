@@ -1,0 +1,29 @@
+/*****************************************************************************/
+/* Project name:    nstd - non-standard library                              */
+/* File name:       nstd_memory_storage.dpp                                  */
+/* Description:     declarations for memory storage module                   */
+/* Copyright:       (c) 2006-2009 Dmitri Vlasov                              */
+/* Author:          Dmitri Yurievich Vlasov, Novosibirsk, Russia             */
+/* Email:           vlasov at academ.org                                     */
+/* URL:             http://mathdevlanguage.sourceforge.net                   */
+/* Modified by:                                                              */
+/* License:         GNU General Public License Version 3                     */
+/*****************************************************************************/
+
+#pragma once
+
+namespace nstd {
+namespace memory {
+namespace storage {
+
+	template<class, class, class>
+	class Array;
+	template<class, class>
+	class Scalar;
+	template<class, class, class>
+	class Vector;
+}
+}
+}
+
+
