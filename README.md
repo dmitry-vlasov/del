@@ -12,9 +12,9 @@ theories and signatures, which solves the problem of decomposition and
 outputs the result of decomposition in the same format del.
 
 The package contains following parts:
-	* del  : the decomposer and solver
-	* nstd : non-standard template library
-	* math : directory with test source files and test scripts
+ * del  : the decomposer and solver
+ * nstd : non-standard template library
+ * math : directory with test source files and test scripts
 
 Installation
 ------------
